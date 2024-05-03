@@ -1,3 +1,7 @@
+import sys
+sys.path.append('c:\\Users\\benny\\Documents\\GitHub\\finBERT')
+#sys.path.append('c:\\Users\\benny\\Documents\\GitHub\\finBERT\\finbert')
+
 from finbert.finbert import predict
 from transformers import AutoModelForSequenceClassification
 import argparse

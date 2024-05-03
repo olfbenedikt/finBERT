@@ -1,5 +1,10 @@
 from __future__ import absolute_import, division, print_function
 
+import sys
+sys.path.append('c:\\Users\\benny\\anaconda3\\envs\\finbert')
+
+
+
 import random
 
 import pandas as pd
