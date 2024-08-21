@@ -1,7 +1,8 @@
 from __future__ import absolute_import, division, print_function
 
 import sys
-sys.path.append('c:\\Users\\benny\\anaconda3\\envs\\finbert')
+#sys.path.append('c:\\Users\\benny\\anaconda3\\envs\\finbert')
+#sys.path.append('c:\\Users\\benny\\anaconda3\\envs\\finbert\\Lib\\site-packages')
 
 
 
